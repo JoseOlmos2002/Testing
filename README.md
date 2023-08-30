@@ -1,4 +1,4 @@
-# Testing
+# Overview
 
-V2:
-Adding text here to create a different version on git
+Information:
+Writng down the info here allows viewers to be able to see what the main purpose of your repository does.
